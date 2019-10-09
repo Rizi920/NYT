@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NYT</string>
+    <string name="search_query_hint">Search Articles</string>
+    <string name="windowTitle">Title</string>
+    <string name="tab_one">All</string>
+    <string name="tab_two">Favourites</string>
+    <string name="share_this">Share this Article</string>
+    <string name="no_save">No Favourite Articles</string>
+    <string name="no_save_explain">It seems you have not favourite any Article yet</string>
+    <string name="no_connection">Your Connection Seems Sleeping</string>
+    <string name="no_connection_explain">Slow or no internet, Please check you network</string>
+    <string name="no_search_results">No Search Results Found</string>
+    <string name="no_search_results_explain">We have Searched All Articles But did not find Anything</string>
+
+    <string name="save">Save</string>
+    <string name="api_error">Sorry Something went Wrong, Please Try Again</string>
+    <string name="error">Error</string>>
+    <string name="success">Success</string>>
+    <string name="popular">Popular</string>>
+    <string name="most_viewed">Most Viewed Articles</string>>
+    <string name="most_shared">Most Shared Articles</string>>
+    <string name="most_emailed">Most Emailed Articles</string>>
+
+
+    <string name="jsonAbstarct">Abstract:</string>
+    <string name="byLine">Source:</string>
+
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dm_0">0dp</dimen>
+    <dimen name="dm_0_1">0.1dp</dimen>
+    <dimen name="dm_1">1dp</dimen>
+    <dimen name="dm_2">2dp</dimen>
+    <dimen name="dm_4">4dp</dimen>
+    <dimen name="dm_6">6dp</dimen>
+    <dimen name="dm_8">8dp</dimen>
+    <dimen name="dm_12">12dp</dimen>
+    <dimen name="dm_14">14dp</dimen>
+    <dimen name="dm_10">10dp</dimen>
+    <dimen name="dm_11">11dp</dimen>
+    <dimen name="dm_16">16dp</dimen>
+    <dimen name="dm_18">18dp</dimen>
+    <dimen name="dm_20">20dp</dimen>
+    <dimen name="dm_24">24dp</dimen>
+    <dimen name="dm_28">28dp</dimen>
+    <dimen name="dm_30">30dp</dimen>
+    <dimen name="dm_32">32dp</dimen>
+    <dimen name="dm_36">36dp</dimen>
+    <dimen name="dm_44">44dp</dimen>
+    <dimen name="dm_48">48dp</dimen>
+    <dimen name="dm_55">55dp</dimen>
+    <dimen name="dm_64">64dp</dimen>
+    <dimen name="dm_72">72dp</dimen>
+    <dimen name="dm_80">80dp</dimen>
+    <dimen name="dm_85">85dp</dimen>
+    <dimen name="dm_90">90dp</dimen>
+    <dimen name="dm_96">96dp</dimen>
+    <dimen name="dm_115">115dp</dimen>
+    <dimen name="dm_100">100dp</dimen>
+    <dimen name="dm_120">120dp</dimen>
+    <dimen name="dm_135">135dp</dimen>
+    <dimen name="dm_150">150dp</dimen>
+    <dimen name="dm_180">180dp</dimen>
+    <dimen name="dm_200">200dp</dimen>
+    <dimen name="dm_240">240dp</dimen>
+    <dimen name="dm_280">280dp</dimen>
+    <dimen name="dm_550">550dp</dimen>
+
+
+    <dimen name="tv_8">8sp</dimen>
+    <dimen name="tv_10">10sp</dimen>
+    <dimen name="tv_11">11sp</dimen>
+    <dimen name="tv_12">12sp</dimen>
+    <dimen name="tv_13">13sp</dimen>
+    <dimen name="tv_14">14sp</dimen>
+    <dimen name="tv_15">15sp</dimen>
+    <dimen name="tv_16">16sp</dimen>
+    <dimen name="tv_17">17sp</dimen>
+    <dimen name="tv_18">18sp</dimen>
+    <dimen name="tv_20">20sp</dimen>
+    <dimen name="tv_22">22sp</dimen>
+    <dimen name="tv_24">24sp</dimen>
+    <dimen name="tv_26">26sp</dimen>
+    <dimen name="tv_28">28sp</dimen>
+    <dimen name="tv_32">32sp</dimen>
+    <dimen name="tv_34">34sp</dimen>
+    <dimen name="tv_36">36sp</dimen>
+
+    <dimen name="tv_heading">16sp</dimen>
+    <dimen name="tv_sub_heading">14sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="msv_horizontal_margin">8dip</dimen>
+    <dimen name="msv_icon_padding">12dp</dimen>
+    <dimen name="msv_text_padding">65dp</dimen>
+    <dimen name="msv_suggestions_left_margin">48dp</dimen>
+    <dimen name="msv_filter_height">32dip</dimen>
+    <dimen name="msv_filter_margin">2dip</dimen>
+    <dimen name="msv_filter_rv_padding">2dip</dimen>
+    <dimen name="msv_filter_rv_height">40dip</dimen>
+    <dimen name="msv_filter_close_button_horizontal_margin">4dip</dimen>
+    <dimen name="msv_select_filter_left_margin">16dp</dimen>
+    <dimen name="msv_select_filter_icon_padding">12dip</dimen>
+    <dimen name="msv_select_filter_text_left_margin">72dip</dimen>
+    <dimen name="msv_select_filter_icon_size">36dip</dimen>
+    <dimen name="msv_select_filter_section_height">48dip</dimen>
+    <dimen name="msv_select_filter_my_filter_height">48dip</dimen>
+</resources>
